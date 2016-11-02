@@ -7,7 +7,7 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 
-public class Basictest {
+public class BasicTest {
   private WebDriver driver;
   private String baseUrl;
   private boolean acceptNextAlert = true;
